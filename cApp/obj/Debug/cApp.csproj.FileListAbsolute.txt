@@ -1,0 +1,7 @@
+E:\EDI\22022\MatrizSparce\cApp\bin\Debug\cApp.exe.config
+E:\EDI\22022\MatrizSparce\cApp\bin\Debug\cApp.exe
+E:\EDI\22022\MatrizSparce\cApp\bin\Debug\cApp.pdb
+E:\EDI\22022\MatrizSparce\cApp\obj\Debug\cApp.csprojAssemblyReference.cache
+E:\EDI\22022\MatrizSparce\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+E:\EDI\22022\MatrizSparce\cApp\obj\Debug\cApp.exe
+E:\EDI\22022\MatrizSparce\cApp\obj\Debug\cApp.pdb
